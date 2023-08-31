@@ -1,3 +1,5 @@
+![Pantallazo de la Aplicación](https://drive.google.com/file/d/1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ/view?usp=drive_link)
+
 # Mi Contador Didáctico Flutter 📱
 
 ¡Bienvenido a Mi Contador Didáctico Flutter! Esta es una aplicación sencilla creada con Flutter diseñada para ayudarte a aprender los conceptos básicos de Flutter a través de un proyecto práctico.
@@ -38,7 +40,9 @@ Para comenzar a usar esta aplicación didáctica, sigue estos pasos:
 
 ## Vista 👀
 
-![Pantallazo de la Aplicación](https://drive.google.com/file/d/1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ/view?usp=drive_link)
+https://drive.google.com/file/d/1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ/view?usp=drive_link
+
+
 
 
 ## Nota
