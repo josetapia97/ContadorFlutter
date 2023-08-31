@@ -1,4 +1,4 @@
-![Pantallazo de la Aplicación](https://drive.google.com/file/d/1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ/view?usp=drive_link)
+![Pantallazo de la Aplicación](https://drive.google.com/file/d/1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ/view?usp=drive)
 
 # Mi Contador Didáctico Flutter 📱
 
