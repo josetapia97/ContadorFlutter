@@ -1,4 +1,3 @@
-![Pantallazo de la Aplicación](https://drive.google.com/uc?export=view&id=1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ)
 
 # Mi Contador Didáctico Flutter 📱
 
@@ -39,9 +38,13 @@ Para comenzar a usar esta aplicación didáctica, sigue estos pasos:
 4. Experimenta con el contador y explora el código para aprender más.
 
 ## Vista 👀
+Al iniciar la función principal de la aplicación se ve un resultado estable y minimalista.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ" alt="Pantallazo de la Aplicación">
+</p>
 
-
+![Pantallazo de la Aplicación](https://drive.google.com/uc?export=view&id=1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ)
 
 
 ## Nota
