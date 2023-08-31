@@ -44,8 +44,6 @@ Al iniciar la función principal de la aplicación se ve un resultado estable y 
   <img src="https://drive.google.com/uc?export=view&id=1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ" alt="Pantallazo de la Aplicación">
 </p>
 
-![Pantallazo de la Aplicación](https://drive.google.com/uc?export=view&id=1bQDG37yJtE8ZoIFnTNio8YXqysu4R5uZ)
-
 
 ## Nota
 
